@@ -1,5 +1,5 @@
 package module_go
 
 func SayHai() string {
-	return "hello"
+	return "hello semua"
 }
